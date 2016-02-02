@@ -1,0 +1,135 @@
+/*Custom Style*/
+
+
+
+body {
+	font-family: "Playfair Display",serif;
+	background-color: #000000;
+	font-size: 3em;
+
+	}
+
+	h1 {
+		color: #dddddd;
+	
+}
+
+	h2 {
+	color: #dddddd;
+
+	
+}
+
+
+	h3 {
+	color: #dddddd;
+
+	
+}
+
+
+h4 {
+	color: #dddddd;
+	font-size: 1em;
+
+	
+}
+
+h5 { 
+ text-align: left;
+	color: #ffffff;
+
+	
+
+	
+}
+
+p  {
+	color: #dddddd;
+
+
+	
+}
+
+li {
+   color:white;
+   margin:10px;
+  float: left;
+  list-style:none;
+}
+
+.container.nomargin {
+	margin:0;
+	padding:0;
+	width:100%;
+}
+.padding {
+	padding:80px 0;
+}
+
+.margin {
+	margin: 50px 0;
+}
+
+
+
+
+
+/* Navigation Styling */
+.navbar {
+	background-color:#000000;
+	font-family:"Playfair Display" serif;
+	font-size: 14px;
+
+
+}
+.navbar .navbar-brand {
+	font-weight: 45;
+	color: #ffffff;
+
+}
+
+
+.navbar-inverse .navbar-nav>li>a {
+	
+font-size: 16px;
+
+}
+
+
+/* Header Styling */
+#header {
+	font-size: 1em
+}
+
+#header .stack {
+color: #5c5c5c;
+font-size: 1em;
+}
+
+
+#header .hincapie {
+color: #5c5c5c;
+}
+
+
+
+/* ==== Media Queries ====*/
+
+/* iPads (Tablets) ----------- */
+@media only screen and (min-width: 768px) and (max-width : 1024px) {
+/* Styles */
+
+
+
+/* Iphone/Android (Small Devices) ----------- */
+@media only screen and (min-width : 320px) and (max-width: 767px) {
+/* Styles */
+
+
+
+
+
+
+
+
